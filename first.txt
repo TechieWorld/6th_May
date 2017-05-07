@@ -1,2 +1,2 @@
 this is my first git file.
-adding more data to first file.
+modified for pushing to remote repo.
